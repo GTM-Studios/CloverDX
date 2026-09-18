@@ -71,7 +71,7 @@ So, on top of citing:
 
 **Slack channels:**
 - Internal (GTM Studios + CloverDX BD): `#cloverdx-internal`, Channel ID `C0ABLAVBVDJ` *(from routing.json / digest)*
-- External/replies: `#cloverdx-smartlead-replies` *(name from routing.json — confirm ID)*
+- External (client): Channel ID `C0AFQ85E1AB` *(from Leo; client-side, Kate Pidgeon et al.)*
 
 **Email:**
 - Inbox: Leo's Gmail (`leo@gotomarketstudios.com`)
