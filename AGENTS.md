@@ -79,8 +79,10 @@ So, on top of citing:
 - Excludes pure scheduling/calendar-acceptance emails and auto-replies unless they carry a substantive decision or action item
 
 **ClickUp (reference only, not synced to):**
-- Workspace ID: TBC
-- Space: TBC
-- List: TBC
+- Workspace ID: `90152153946`
+- Space: "CloverDX" (Space ID `90159041715`) — one space, **multiple department lists**:
+  - List: "Original Project" (Kate & Jake's) — List ID `901519248410`
+  - List: "Intel 360" (Pavel's) — List ID `901524267426`
+  - List: "New Business Team Project" (Ross's) — List ID `901524267505`
 
 *These identifiers carry over from the prior repo for this same engagement — confirm they're still current if anything's changed since.*
