@@ -69,20 +69,18 @@ So, on top of citing:
 
 ## Configuration — sources this role reads from
 
-> **Fill these in during bootstrap.** See the "Template bootstrap" section of `README.md`.
-
 **Slack channels:**
-- External (client-facing): `#<client>`, Channel ID `<ID>` *(from `~/gtm-studios/agent/routing.json`)*
-- Internal (GTM Studios only): `#<client>-internal`, Channel ID `<ID>`
+- Internal (GTM Studios + CloverDX BD): `#cloverdx-internal`, Channel ID `C0ABLAVBVDJ` *(from routing.json / digest)*
+- External/replies: `#cloverdx-smartlead-replies` *(name from routing.json — confirm ID)*
 
 **Email:**
 - Inbox: Leo's Gmail (`leo@gotomarketstudios.com`)
-- Scope: threads with `<client>@<domain>` counterparts (<names>)
+- Scope: threads with `@cloverdx.com` counterparts
 - Excludes pure scheduling/calendar-acceptance emails and auto-replies unless they carry a substantive decision or action item
 
 **ClickUp (reference only, not synced to):**
-- Workspace ID: `<ID>`
-- Space: "<name>" (Space ID `<ID>`)
-- List: "<name>" (List ID `<ID>`)
+- Workspace ID: TBC
+- Space: TBC
+- List: TBC
 
 *These identifiers carry over from the prior repo for this same engagement — confirm they're still current if anything's changed since.*

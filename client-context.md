@@ -1,34 +1,40 @@
-# Client Context — {CLIENT NAME}
+# Client Context — CloverDX
 
-> **Bootstrap:** replace the sections below with this client's real facts. Keep under ~600 words; prune, don't append. Facts here should always reflect current reality, not a point-in-time snapshot. Add `[ASSUMPTION]` tags and source pointers where relevant.
+> Bootstrap draft. Under 600 words, current-reality not snapshot. `[ASSUMPTION]` where unconfirmed; correct here rather than working around.
 
 ## Who they are
 
-What the company is, what market/vertical they operate in, and why this engagement exists now.
+**CloverDX** (cloverdx.com) — data integration/ETL software vendor. Engagement at kickoff stage; precise positioning and why-they-hired-us not yet confirmed in the repo.
 
 ## What they sell
 
-The product/service, the commercial models, and how the client describes its own customers (quote verbatim where it matters).
+TBC — data integration platform ([ASSUMPTION] — nothing client-confirmed in repo yet).
 
 ## Who they sell to
 
-The active verticals for the current ABM/build phase, and for each: what the client offers them and who buys.
+TBC — current outbound/ABM activity is in flight but no client-confirmed vertical detail is recorded yet ([ASSUMPTION]).
 
 ## Ideal Customer Profile (general shape, tune per vertical)
 
-- **Company type:** ...
-- **Scale:** ...
-- **Revenue:** ...
-- **Geography:** ...
-- **Economic buyers:** ...
-- **Technical champions:** ...
-- **Excluded:** ...
+- **Company type:** TBC
+- **Scale:** TBC
+- **Revenue:** TBC
+- **Geography:** TBC
+- **Economic buyers:** TBC
+- **Technical champions:** TBC
+- **Excluded:** TBC
 
-## Key contacts
+## Key contacts (from Slack/gmail)
 
-| Name | Role | Relationship | Notes |
-|---|---|---|---|
+| Name | Email | Role | Relationship | Notes |
+|---|---|---|---|---|
+| Laura Galyer | laura.galyer@cloverdx.com | Contact | declined weekly sync 09-16 — cadence open | `log/2026-09-16-cloverdx-email-weekly-sync-declined.md` |
+| Albin Beqiri |  | GTM-side (digests) | runs morning digests on internal Slack | `log/2026-09-17-cloverdx-slack-morning-digest.md` |
+| Kate |  | Client contact | HubSpot cadence rework owner | same digest |
+| Ross |  | | looped re cadence | same digest |
+
+*Kate/Ross roles are [ASSUMPTION]-level from digests, not client-confirmed.*
 
 ---
 
-*Fill from the client's own materials and client-confirmed comms (see `AGENTS.md` — `client-context.md` is orientation, not a citable source).*
+*Fill from client-confirmed comms per `AGENTS.md` — this is orientation, not a citable source.*
