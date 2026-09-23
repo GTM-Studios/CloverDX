@@ -1,6 +1,10 @@
 # CloverDX — Engagement Status
 
-Last updated 2026-09-18.
+Last updated 2026-09-23.
+
+## 2026-09-23 — Rescheduled weekly sync now Friday; BD_TEAM overdue unchanged
+
+Albin asked Leo whether to **suggest Friday** for the rescheduled CloverDX sync; Leo agreed — Albin **proposed Friday to Ross** (client-facing, pending Ross confirm). C2 investigation (Audiences/Account-Agents/Workflows) progressing — report Thu 24, present Friday. BD_TEAM milestone + LinkedIn/retired-contact/warm-intro subtasks all still **OVERDUE** (`communications/internal/slack/2026-09-23-cloverdx-slack-morning-digest.md`).
 
 ## Right now
 
