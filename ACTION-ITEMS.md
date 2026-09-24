@@ -10,6 +10,8 @@ Open work, sourced from the engagement logs. Items are GTM-tracked ([ASSUMPTION]
 | A4 | Leo | Reply to Kate on Clay Audiences / Account Agents / Workflows trial (to end of year) | open | `communications/client/slack/2026-09-18-kate-sync-next-week-clay-audiences-trial.md` |
 | A5 | Albin | Research Clay Audiences (has theory, no hands-on); prep for next-week scope-of-work summary | open | `communications/internal/slack/2026-09-18-leo-asks-albin-clay-audiences.md` |
 | A6 | BD team | Milestone Outbound Sync Follow-ups (from 09-04) — OVERDUE | overdue | `communications/internal/slack/2026-09-17-morning-digest.md` |
+| A7 | U0ACAB6GNN4 | Contact Clay support re: job-change signals not detected in people segment | open | `communications/internal/slack-huddle/2026-09-24-cloverdx-huddle-notes-clay-enrichment.md` |
+| A8 | Leo | Develop + present new awareness-stage framework (for U0ACAB6GNN4 to integrate) — from 09-24 huddle | open | `communications/internal/slack-huddle/2026-09-24-cloverdx-huddle-notes-clay-enrichment.md` |
 
 ## Done (recent)
 

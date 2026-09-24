@@ -1,27 +1,24 @@
 # CloverDX — Engagement Status
 
-Last updated 2026-09-23.
+Last updated 2026-09-24.
 
-## 2026-09-23 — Rescheduled weekly sync now Friday; BD_TEAM overdue unchanged
+## 2026-09-24 — Clay enrich huddle: signal gap + awareness-stage pivot
 
-Albin asked Leo whether to **suggest Friday** for the rescheduled CloverDX sync; Leo agreed — Albin **proposed Friday to Ross** (client-facing, pending Ross confirm). C2 investigation (Audiences/Account-Agents/Workflows) progressing — report Thu 24, present Friday. BD_TEAM milestone + LinkedIn/retired-contact/warm-intro subtasks all still **OVERDUE** (`communications/internal/slack/2026-09-23-cloverdx-slack-morning-digest.md`).
+**GTM-internal huddle (CloverDX work).** Key finding: Clay job-change signals **not detected in people segments** (`"no records found"` despite LinkedIn showing the change) — web-visit signals work, so it's inconsistent; escalated to Clay support (A7). Web-visit signals are **company-level only**, capping people-level path filtering. **Strategic pivot (Leo, A8):** straight outbound doesn't work for high-value/hard-persona deals → new **awareness-stage framework** to combine with current targeting; U0ACAB6GNN4 expects a "game changer" once refined. HubSpot blank full-name field auto-populated across **45,000 contacts** via AI workflow. No client-confirmed facts on this call (all GTM-authored).
 
 ## Right now
 
-Engagement repo launched from GTM Studios template; last-24h comms backfilled incl. full Slack threads. **Direction set with the client:** no sync today; next-week sync becomes a **scope-of-work session** starting from the outcome **"more demos"** (then Audience Creation, Josh's Workflows, Ads feature). **Kate on holiday next week, back Friday.** CloverDX has Clay **Audiences / Account Agents / Workflows** trial to end of year — Kate testing with limited HubSpot connection.
+Engagement repo live; direction set with client: next-week sync = **scope-of-work session** from "more demos" → Audience Creation, Josh Workflows, Ads. Rescheduled sync **proposed Friday to Ross** (client to confirm). Kate back Friday. Clay Audiences/Account Agents/Workflows trial to end of year.
 
 ## Blockers
 
-- **PhantomBuster SalesNav-blocked (both automations):** "Boomi - SalesNav - Drip Feed" (09-18) and "Current Customers Job Changes" (09-17) both fail to extract — no connected Sales Navigator account. Flagged for Leo: provision SalesNav or park. `communications/internal/emails/2026-09-17-...job-changes-blocked.md` and `2026-09-18-...drip-feed-blocked.md`.
-
-## Next checkpoint
-
-Work to prep for the **next-week scope-of-work session** (client-confirmed 09-18): plan from "more demos" outcome — Audience Creation, Josh Workflows, Ads feature usage. Book the sync around Kate's holiday (back Friday); Josh can join.
+- **Clay job-change signal gap** — people-segment job-change filters return no records; external (Clay), awaiting support. Blocks people-level job-change targeting (`communications/internal/slack-huddle/2026-09-24-cloverdx-huddle-notes-clay-enrichment.md`).
+- **PhantomBuster SalesNav-blocked (both automations):** "Boomi - SalesNav - Drip Feed" & "Current Customers Job Changes" fail to extract — no connected Sales Navigator account. `communications/internal/emails/2026-09-17-...job-changes-blocked.md`, `2026-09-18-...drip-feed-blocked.md`.
 
 ## Recent
 
-- 2026-09-18 — **client-confirmed (Kate, thread):** no sync today; next-week sync becomes scope-of-work session starting from "more demos" outcome; Clay Audiences/Account Agents/Workflows trial to end of year; Kate on holiday next week, back Fri (`communications/client/slack/2026-09-18-kate-sync-next-week-clay-audiences-trial.md`).
-- 2026-09-18 — last-24h comms backfilled incl. full threads: 2 PhantomBuster blocks, 09-17/09-18 digests, Leo↔Albin Clay thread (Albin researched, no hands-on), Albin's sync decline.
-- 2026-09-18 — repo created from GTM Studios template; ClickUp config (3 department lists) added.
-- 2026-09-17 — digest: HubSpot cadence rework w/ Kate done; Milestone Outbound Sync Follow-ups still overdue.
+- 2026-09-24 — huddle: awareness-stage pivot (A8), Clay support escalation (A7), name-field fix across 45k contacts.
+- 2026-09-23 — rescheduled sync now **Friday**; Albin proposed to Ross (pending confirm). C2 investigation report Thu 24, present Fri.
+- 2026-09-18 — client-confirmed (Kate): no sync today; sync = scope-of-work session from "more demos"; trial to year-end; Kate back Fri.
+- 2026-09-17 — digest: HubSpot cadence rework done; BD_TEAM Milestone Outbound Sync follow-ups overdue.
 - 2026-09-16 — weekly sync declined by Laura; template repo seed.

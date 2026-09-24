@@ -19,3 +19,13 @@ Log of material decisions made on this engagement. Append at the bottom, chronol
 **Source:** `communications/internal/slack/2026-09-23-cloverdx-slack-morning-digest.md` (morning digest 2026-09-23, #cloverdx-internal `C0ABLAVBVDJ`).
 
 **Status:** Active — Friday proposed to Ross, client to confirm.
+
+---
+
+## 2026-09-24 — Strategic shift to awareness-stage framework for high-value/hard-persona deals
+
+**Decision (GTM's own, Leo):** straight outbound does not work for high-value deals with difficult personas; Leo will develop a new **awareness-stage framework** to combine with current targeting (CloverDX pipeline). U0ACAB6GNN4 called it a likely "game changer" once refined. Engages the Clay job-change signal gap as a build dependency.
+
+**Source:** `communications/internal/slack-huddle/2026-09-24-cloverdx-huddle-notes-clay-enrichment.md` (huddle C0ABLAVBVDJ).
+
+**Status:** Active — framework to be developed and presented by Leo.
