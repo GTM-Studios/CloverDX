@@ -29,3 +29,16 @@ Log of material decisions made on this engagement. Append at the bottom, chronol
 **Source:** `communications/internal/slack-huddle/2026-09-24-cloverdx-huddle-notes-clay-enrichment.md` (huddle C0ABLAVBVDJ).
 
 **Status:** Active — framework to be developed and presented by Leo.
+
+---
+
+## 2026-09-24 (2nd) — Web-visitor contact-level tracking ask + job-change signal resolution (CloverDX, GTM-authored)
+
+**Decision (GTM's own, Leo):** ask Clay support whether the **built-in website-visitor providers can track at CONTACT
+level** (currently company-level only) — intent confirmed contact-level ("Yes second one"). New action **A9**
+(clickup `124f7bm4f6j`). **Also:** the job-change signal gap (A7) was root-caused with Clay support — **signals must be
+run first** before pulling data (a workbook-table signal can't detect job changes in an Audience); new signal set up.
+
+**Source:** `communications/internal/slack/2026-09-24-cloverdx-slack-audiences-stage-mapping-job-change-resolution-web-visitor-tracking.md` (#cloverdx-internal `C0ABLAVBVDJ`).
+
+**Status:** Active — A9 queued to Albin (ask support); A7 mostly resolved, monitor rebuilt signal.
