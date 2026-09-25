@@ -2,6 +2,12 @@
 
 Last updated 2026-09-25.
 
+## 2026-09-25 (4th, evening) — Kate pilot-willingness for Clay Audiences/Workflows + Josh in smartlead channel
+Evening sweep of `#smartlead-replies` (C0AFQ85E1AB): **Kate (client) confirmed willingness to "set up a
+little pilot"** of the Audiences/Claygen/Workflows capability (09-25 16:28, verbatim), no scope/date — flag
+for the **8 Oct in-person whiteboard**; **Josh Peazer joined the channel 14:02** → C13 "add Josh" piece
+resolved. No new A/C task; C13 progressed (`log/2026-09-25-cloverdx-slack-smartlead-kate-pilot-willingness-and-josh-peazer-joins.md`; `decisions.md`).
+
 ## 2026-09-25 (3rd) — Huddle: cloud MCP ↔ Clay connection + project ownership transfer
 
 **GTM-internal (CloverDX).** Leo handed **project ownership** to U0ACAB6GNN4 (Marketing work w/ Laura + Kate translates results more directly). **Cloud MCP ↔ Clay:** client wants its custom-built brain connected to its Clay workspace; team to implement Jay's changes + **automate his manual cloud-check via a Clay connection**. **Accountability flag:** client "sequence" issue ambiguous (Matt: still problematic; Kate: they'll fix themselves); Leo wants client with no excuses for non-delivery; concern over extensive feedback vs only 5 dials. New actions: **A15** summary email + context to Kate re MCP (`124f7bm4h8c`), **A16** implement cloud MCP↔Clay (`124f7bm4h8d`), **A17** Leo calls Ross re progress (`124f7bm4h8e`).

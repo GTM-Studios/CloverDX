@@ -72,3 +72,16 @@ run first** before pulling data (a workbook-table signal can't detect job change
 **Source:** `communications/internal/slack-huddle/2026-09-25-cloverdx-huddle-notes-cloud-mcp-ownership-transfer.md` (huddle `#cloverdx-internal` `C0ABLAVBVDJ`).
 
 **Status:** Active — A15/A16 queued to U0ACAB6GNN4, A17 to Leo.
+
+## 2026-09-25 (4th, evening sweep) — Kate signals pilot willingness + Josh in smartlead channel (CloverDX)
+
+**Source:** Slack `cloverdx-smartlead-replies` (`C0AFQ85E1AB`), 09-25 evening sweep. Client-authored (Kate).
+- **Kate 09-25 16:28** (verbatim): "…really helpful - going to dig into this a bit more next week and
+  then maybe we can set up a little pilot to see how it works." → **client-confirmed pilot-willingness**
+  for the Clay Audiences / Claygen / Workflows capability; no scope/date — propose defining at the **8 Oct
+  in-person whiteboard** (10:30–16:30). Feeds C13 + the 8 Oct prep. (Earlier 09-25 detail in
+  `log/2026-09-25-cloverdx-slack-smartlead-big-picture-and-mcp-thread.md`; wrapping confirmation in
+  `log/2026-09-25-cloverdx-slack-smartlead-kate-pilot-willingness-and-josh-peazer-joins.md`.)
+- **Josh Peazer joined the smartlead channel 14:02** — resolves the open "add Josh" piece of C13.
+
+**Status:** C13 progressed (Josh in channel; pilot pending 8 Oct); no new A/C task — flag, don't decide.
