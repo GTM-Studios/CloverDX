@@ -62,3 +62,13 @@ run first** before pulling data (a workbook-table signal can't detect job change
 **Source:** `communications/internal/slack-huddle/2026-09-25-cloverdx-huddle-notes-prospect-research-workflow.md` (huddle `#cloverdx-internal` `C0ABLAVBVDJ`).
 
 **Status:** Active — A13/A14 queued to U0ACAB6GNN4.
+
+---
+
+## 2026-09-25 (3rd) — Cloud MCP ↔ Clay connection + project ownership transfer to U0ACAB6GNN4 (CloverDX, GTM-authored)
+
+**Decision (GTM's own, Leo):** **project ownership transferred** to U0ACAB6GNN4 — Marketing work with Laura and Kate to translate results more directly; Leo flagged uncertainty on project duration. **Cloud MCP ↔ Clay:** client has a custom-built brain and wants to connect its cloud MCP to its Clay workspace; team will implement Jay's changes on their table and **automate his manual cloud-check step via a Clay connection** (removes manual verification). **Accountability concern:** Leo wants the client left **with no excuses for non-delivery** — flagged ambiguity on the "sequence" issue (Matt: still problematic; Kate: they'll fix themselves), and possible misalignment given extensive feedback vs only **5 dials**. Adds actions **A15** (summary email + context to Kate re MCP server connection, `124f7bm4h8c`), **A16** (investigate + implement cloud MCP ↔ Clay connection, `124f7bm4h8d`), **A17** (Leo calls Ross re project progress, `124f7bm4h8e`).
+
+**Source:** `communications/internal/slack-huddle/2026-09-25-cloverdx-huddle-notes-cloud-mcp-ownership-transfer.md` (huddle `#cloverdx-internal` `C0ABLAVBVDJ`).
+
+**Status:** Active — A15/A16 queued to U0ACAB6GNN4, A17 to Leo.

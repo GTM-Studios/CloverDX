@@ -2,6 +2,10 @@
 
 Last updated 2026-09-25.
 
+## 2026-09-25 (3rd) — Huddle: cloud MCP ↔ Clay connection + project ownership transfer
+
+**GTM-internal (CloverDX).** Leo handed **project ownership** to U0ACAB6GNN4 (Marketing work w/ Laura + Kate translates results more directly). **Cloud MCP ↔ Clay:** client wants its custom-built brain connected to its Clay workspace; team to implement Jay's changes + **automate his manual cloud-check via a Clay connection**. **Accountability flag:** client "sequence" issue ambiguous (Matt: still problematic; Kate: they'll fix themselves); Leo wants client with no excuses for non-delivery; concern over extensive feedback vs only 5 dials. New actions: **A15** summary email + context to Kate re MCP (`124f7bm4h8c`), **A16** implement cloud MCP↔Clay (`124f7bm4h8d`), **A17** Leo calls Ross re progress (`124f7bm4h8e`).
+
 ## 2026-09-25 (2nd) — Huddle: prospect-research workflow + field standardization + LinkedIn Ads API
 
 **GTM-internal prep (CloverDX).** U0ACAB6GNN4's **prospect-research workflow** tracks prospect web visits (page path + domain) to surface companies already aware of the product; AI (4 Mini) flags forcing factors + outreach angles (competitor-page visitor = "stage one competitor"). **Field standardization** across all Clay accounts (Leo) with **warm/nurture/air-cover/direct** presets, auto-populated segment tracking. **LinkedIn Marketing API:** account lands in a segment → workflow pushes it to a predefined LinkedIn ad campaign via API. New actions **A13** (update workflow + follow-up call), **A14** (verify segment-push capability).

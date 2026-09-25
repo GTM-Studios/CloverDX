@@ -18,6 +18,9 @@ Open work, sourced from the engagement logs. Items are GTM-tracked ([ASSUMPTION]
 | A12 | Leo | Finalize audiences + presentation materials for the CloverDX client call | open | `communications/internal/slack-huddle/2026-09-25-cloverdx-huddle-notes-audience-segmentation-framework.md` |
 | A13 | U0ACAB6GNN4 | Update the prospect-research workflow; join a follow-up call to discuss next steps | open | `communications/internal/slack-huddle/2026-09-25-cloverdx-huddle-notes-prospect-research-workflow.md` | `124f7bm4gmp` |
 | A14 | U0ACAB6GNN4 | Verify whether the system can push companies to different segments (gates the segment→LinkedIn Ads API trigger) | open | `communications/internal/slack-huddle/2026-09-25-cloverdx-huddle-notes-prospect-research-workflow.md` | `124f7bm4gmq` |
+| A15 | U0ACAB6GNN4 | Send summary email + context to Kate re cloud MCP server connection | open | `communications/internal/slack-huddle/2026-09-25-cloverdx-huddle-notes-cloud-mcp-ownership-transfer.md` | `124f7bm4h8c` |
+| A16 | U0ACAB6GNN4 | Investigate + implement connection between cloud MCP and the Clay workspace (automate Jay's manual check) | open | `communications/internal/slack-huddle/2026-09-25-cloverdx-huddle-notes-cloud-mcp-ownership-transfer.md` | `124f7bm4h8d` |
+| A17 | Leo | Call Ross to discuss CloverDX project progress | open | `communications/internal/slack-huddle/2026-09-25-cloverdx-huddle-notes-cloud-mcp-ownership-transfer.md` | `124f7bm4h8e` |
 
 ## Done (recent)
 
