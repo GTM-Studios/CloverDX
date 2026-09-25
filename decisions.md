@@ -52,3 +52,13 @@ run first** before pulling data (a workbook-table signal can't detect job change
 **Source:** `communications/internal/slack-huddle/2026-09-25-cloverdx-huddle-notes-audience-segmentation-framework.md` (huddle `#cloverdx-internal` `C0ABLAVBVDJ`).
 
 **Status:** Active — prep tasks in flight for the client call.
+
+---
+
+## 2026-09-25 (2nd) — Prospect-research workflow + field standardization + LinkedIn Ads API (CloverDX, GTM-authored)
+
+**Decision (GTM's own, Leo + U0ACAB6GNN4):** U0ACAB6GNN4's **prospect research workflow** is the intake arm — tracks prospect web visits (filter by page path + domain) to surface companies already aware of the product, uses AI (4 Mini) on domain+page-type inputs to flag **forcing factors** and suggest **outreach angles** (competitor-page visitor = "stage one competitor"). **Field standardization:** Leo to standardize fields across **all Clay accounts**; presets for a new field using the **warm / nurture / air cover / direct** framework, auto-populated with **segment tracking** by value. **LinkedIn Marketing API:** when an account lands in a segment, a workflow triggers to push it to a **predefined LinkedIn ad campaign via API** (U0ACAB6GNN4 aligned, automated ad deployment). Adds actions **A13** (update workflow + follow-up call) and **A14** (verify segment-push capability).
+
+**Source:** `communications/internal/slack-huddle/2026-09-25-cloverdx-huddle-notes-prospect-research-workflow.md` (huddle `#cloverdx-internal` `C0ABLAVBVDJ`).
+
+**Status:** Active — A13/A14 queued to U0ACAB6GNN4.

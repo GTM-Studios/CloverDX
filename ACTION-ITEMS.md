@@ -16,6 +16,8 @@ Open work, sourced from the engagement logs. Items are GTM-tracked ([ASSUMPTION]
 | A10 | U0ACAB6GNN4 | Build a **sample workflow + account agent** for the CloverDX client call — **due 11:00 today (09-25)**; note account agent feature needs an upgrade before implementation | open | `communications/internal/slack-huddle/2026-09-25-cloverdx-huddle-notes-audience-segmentation-framework.md` |
 | A11 | U0ACAB6GNN4 | Review account agents documentation + Clay-related items | open | `communications/internal/slack-huddle/2026-09-25-cloverdx-huddle-notes-audience-segmentation-framework.md` |
 | A12 | Leo | Finalize audiences + presentation materials for the CloverDX client call | open | `communications/internal/slack-huddle/2026-09-25-cloverdx-huddle-notes-audience-segmentation-framework.md` |
+| A13 | U0ACAB6GNN4 | Update the prospect-research workflow; join a follow-up call to discuss next steps | open | `communications/internal/slack-huddle/2026-09-25-cloverdx-huddle-notes-prospect-research-workflow.md` | `124f7bm4gmp` |
+| A14 | U0ACAB6GNN4 | Verify whether the system can push companies to different segments (gates the segment→LinkedIn Ads API trigger) | open | `communications/internal/slack-huddle/2026-09-25-cloverdx-huddle-notes-prospect-research-workflow.md` | `124f7bm4gmq` |
 
 ## Done (recent)
 
