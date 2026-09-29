@@ -1,6 +1,13 @@
 # CloverDX — Engagement Status
 
-Last updated 2026-09-25.
+Last updated 2026-09-29.
+
+## 2026-09-29 — PM pass: Clay contact-level answer + register hygiene
+Clay **website-visitor providers track at company level only** — answer **no** to contact-level (closes
+A9). Web-visit intent = company-level, not per-contact. Register: killed A1/SalesNav (blocker now
+**unowned**), killed A15/A16 (cloud MCP↔Clay automation dropped from tracking); A2 → Albin; done
+A3/A4/A8/A10. Board: **10 open + 1 overdue → 9 open + 1 overdue** after A4/A9 done (`ACTION-ITEMS.md`).
+Blockers: account agents (Clay upgrade), segment→LinkedIn push (A14), PhantomBuster SalesNav unowned.
 
 ## 2026-09-25 (4th, evening) — Kate pilot-willingness for Clay Audiences/Workflows + Josh in smartlead channel
 Evening sweep of `#smartlead-replies` (C0AFQ85E1AB): **Kate (client) confirmed willingness to "set up a

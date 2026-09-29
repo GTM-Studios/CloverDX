@@ -85,3 +85,18 @@ run first** before pulling data (a workbook-table signal can't detect job change
 - **Josh Peazer joined the smartlead channel 14:02** — resolves the open "add Josh" piece of C13.
 
 **Status:** C13 progressed (Josh in channel; pilot pending 8 Oct); no new A/C task — flag, don't decide.
+
+---
+
+## 2026-09-29 — PM pass: Clay website-visitor answer + action-register hygiene (CloverDX)
+
+**Decision (Clay-confirmed technical fact; GTM register pass, Leo):** Clay's built-in **website-visitor providers track at COMPANY level only — answer is "no" to contact-level** tracking. Closes A9 (`124f7bm4f6j`). Constrains the prospect-research / awareness-stage work: web-visit signals identify the visiting **company**, not the individual contact — so contact-level intent must come from another signal.
+
+**Register hygiene (09-29):**
+- **Killed:** A1 (SalesNav for PhantomBuster) — the PhantomBuster SalesNav blocker is now **unowned**; A15 (`124f7bm4h8c`) + A16 (`124f7bm4h8d`) — cloud **MCP ↔ Clay automation work dropped from the tracking register** (MCP ownership thread C19 no longer has a task row).
+- **Reassigned:** A2 → **Albin** (book the scope-of-work weekly sync).
+- **Done:** A3 (scope-of-work session plan prepped), A8 (awareness-stage framework), A10 (sample workflow + account agent), A4 (replied to Kate re trial to year-end).
+
+**Source:** Leo instructions in this PM session 2026-09-29; register updates in `ACTION-ITEMS.md`. Clay website-visitor answer attributed by Leo (Clay/GTM research — not yet independently re-verified).
+
+**Status:** Active — register reflects current state; blockers outstanding: account agents (Clay feature upgrade), segment→LinkedIn push (A14), PhantomBuster SalesNav (now unowned), 8 Oct whiteboard undefined.
