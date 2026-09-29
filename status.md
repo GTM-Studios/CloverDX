@@ -2,6 +2,9 @@
 
 Last updated 2026-09-29.
 
+## 2026-09-29 (2nd) — SLACK SWEEP PM: three new asks surfaced from Leo↔Sid todolist thread
+09-29 `#cloverdx-internal` morning-digest + todolist thread (`communications/client/slack/...todolist-thread-claude-connect-bd-table-clay-ads.md`) surfaced three new GTM-tracked asks by Sid: **A18** connect Clay↔Claude (`124f7bm581m`), **A19** build BD contact table so Josh/Jake don't re-reach already-gone-through accounts (`124f7bm581p`), **A20** review Clay Audiences→Clay Ads workflow+pricing (`124f7bm581q`). Morning digest also marked C19/A15/A14/C10 done (Clay A14 = company-level-only tracking, consistent with the A9 decision). Board: 9 open + 1 overdue → **12 open + 1 overdue**.
+
 ## 2026-09-29 — PM pass: Clay contact-level answer + register hygiene
 Clay **website-visitor providers track at company level only** — answer **no** to contact-level (closes
 A9). Web-visit intent = company-level, not per-contact. Register: killed A1/SalesNav (blocker now
