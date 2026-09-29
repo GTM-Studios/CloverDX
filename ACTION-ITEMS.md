@@ -13,6 +13,9 @@ Open work, sourced from the engagement logs. Items are GTM-tracked ([ASSUMPTION]
 | A13 | U0ACAB6GNN4 | Update the prospect-research workflow; join a follow-up call to discuss next steps | open | `communications/internal/slack-huddle/2026-09-25-cloverdx-huddle-notes-prospect-research-workflow.md` | `124f7bm4gmp` |
 | A14 | U0ACAB6GNN4 | Verify whether the system can push companies to different segments (gates the segment→LinkedIn Ads API trigger) | open | `communications/internal/slack-huddle/2026-09-25-cloverdx-huddle-notes-prospect-research-workflow.md` | `124f7bm4gmq` |
 | A17 | Leo | Call Ross to discuss CloverDX project progress | open | `communications/internal/slack-huddle/2026-09-25-cloverdx-huddle-notes-cloud-mcp-ownership-transfer.md` | `124f7bm4h8e` |
+| A18 | U0ACAB6GNN4 | **Connect Clay ↔ Claude** ("we need to see about connecting their Claude") — new ask 09-29 in `#cloverdx-internal` todolist thread; feeds the cloud-MCP→Clay-to-Claude ownership thread | open | `communications/client/slack/2026-09-29-cloverdx-slack-morning-digest-todolist-thread-claude-connect-bd-table-clay-ads.md` | |
+| A19 | U0ACAB6GNN4 | **Build a BD contact table** — companies/contacts the BD team has **already gone through**, so **Josh and Jake don't re-reach the same accounts** from now on; new ask 09-29 | open | `communications/client/slack/2026-09-29-cloverdx-slack-morning-digest-todolist-thread-claude-connect-bd-table-clay-ads.md` | |
+| A20 | U0ACAB6GNN4 | **Review Clay Audiences → Clay Ads workflow + pricing** ("need to look into Clay Audiences to Clay Ads workflow and pricing") — new ask 09-29 | open | `communications/client/slack/2026-09-29-cloverdx-slack-morning-digest-todolist-thread-claude-connect-bd-table-clay-ads.md` | |
 
 ## Done (recent)
 
