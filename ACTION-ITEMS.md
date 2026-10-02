@@ -16,6 +16,7 @@ Open work, sourced from the engagement logs. Items are GTM-tracked ([ASSUMPTION]
 | A18 | U0ACAB6GNN4 | **Connect Clay ↔ Claude** ("we need to see about connecting their Claude") — new ask 09-29 in `#cloverdx-internal` todolist thread; feeds the cloud-MCP→Clay-to-Claude ownership thread | open | `communications/client/slack/2026-09-29-cloverdx-slack-morning-digest-todolist-thread-claude-connect-bd-table-clay-ads.md` | `124f7bm581m` |
 | A19 | U0ACAB6GNN4 | **Build a BD contact table** — companies/contacts the BD team has **already gone through**, so **Josh and Jake don't re-reach the same accounts** from now on; new ask 09-29 | open | `communications/client/slack/2026-09-29-cloverdx-slack-morning-digest-todolist-thread-claude-connect-bd-table-clay-ads.md` | `124f7bm581p` |
 | A20 | U0ACAB6GNN4 | **Review Clay Audiences → Clay Ads workflow + pricing** ("need to look into Clay Audiences to Clay Ads workflow and pricing") — new ask 09-29 | open | `communications/client/slack/2026-09-29-cloverdx-slack-morning-digest-todolist-thread-claude-connect-bd-table-clay-ads.md` | `124f7bm581q` |
+| C16 | Leo / Albin | **Investigate Outlook→HubSpot sequence sync** — existing action recovered from the current CloverDX register. **as of 2026-10-02:** ClickUp overdue alert (gmail `1a0feacdd3a7707c`); live API status `to do`, assigned to Leo + Albin. No completion evidence found | overdue 10-02 | `clickup:124f7bm4xfd`; gmail `1a0feacdd3a7707c` |
 
 ## Done (recent)
 
@@ -30,7 +31,7 @@ Open work, sourced from the engagement logs. Items are GTM-tracked ([ASSUMPTION]
 
 - **A1** — Resolve/park Sales Nav account for PhantomBuster automations — killed 09-29 (Leo).
 - **A15** — Email Kate re cloud MCP connection (`124f7bm4h8c`) — killed 09-29 (Leo).
-- **A16** — Build cloud MCP ↔ Clay connection (`124f7bm4h8d`) — killed 09-29 (Leo).
+- **A16** — Build cloud MCP ↔ Clay connection (`124f7bm4h8d`) — killed 09-29 (Leo). **Mirror reconciled 10-02:** an overdue alert (gmail `1a0feacdb672072a`) exposed that ClickUp still showed `to do`; changed to `complete` and verified via API. Current C19/C31 integration dependencies are separate and remain open.
 
 ## Resolved (C-series, added 2026-10-02)
 
