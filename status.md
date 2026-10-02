@@ -43,6 +43,7 @@ Engagement repo live; direction set with client: next-week sync = **scope-of-wor
 
 ## Recent
 
+- 2026-10-02 (email sweep) — **C24 payment/invoice query RESOLVED**: Leo confirmed the invoice was sent today; Alex ACKed. Office catch-up folds into the confirmed **8 Oct 1–4PM** workshop (`communications/client/emails/2026-10-02-...invoice-sent-office-confirmed.md`). The Claude-plan call (C17) remains open, unaffected.
 - 2026-09-25 (2nd) — prospect-research workflow, field standardization, LinkedIn Ads API (A13/A14).
 - 2026-09-25 — prep huddle: 3-segment audience framework (A8), sample workflow/agent due 11:00 (A10), docs review (A11), finalize audiences/presentation (A12).
 - 2026-09-24 (2nd) — **Audiences deep-dive**: stage-mapping direction (feeds A8); job-change signal resolved (A7); web-visitor contact-level tracking ask (A9, `124f7bm4f6j`).

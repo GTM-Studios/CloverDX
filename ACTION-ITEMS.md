@@ -31,3 +31,8 @@ Open work, sourced from the engagement logs. Items are GTM-tracked ([ASSUMPTION]
 - **A1** — Resolve/park Sales Nav account for PhantomBuster automations — killed 09-29 (Leo).
 - **A15** — Email Kate re cloud MCP connection (`124f7bm4h8c`) — killed 09-29 (Leo).
 - **A16** — Build cloud MCP ↔ Clay connection (`124f7bm4h8d`) — killed 09-29 (Leo).
+
+## Resolved (C-series, added 2026-10-02)
+
+- **C24 (2026-10-02)** — Respond re payment/invoice status — **RESOLVED**: Leo confirmed the invoice
+  was **sent today** (gmail `1a0fca691da039e3`, `communications/client/emails/2026-10-02-cloverdx-email-alex-invoice-sent-office-confirmed.md`); Alex ACKed "cool see you then!". Office catch-up folds into the confirmed **8 Oct 1–4PM** workshop. Payment piece DONE; the Claude-plan call (C17) remains open, unaffected.
