@@ -1,6 +1,23 @@
 # CloverDX — Engagement Status
 
-Last updated 2026-09-29.
+Last updated 2026-10-03.
+
+## 2026-10-03 (SLACK SWEEP + PM) — A13 done-backfill; no new Slack comms
+
+Last-24h sweep of the client Slack channels (`#cloverdx-internal` `C0ABLAVBVDJ`, `#cloverdx-smartlead`
+`C0AFQ85E1AB`, plus the routing map's names below) found **no new messages in the window**. The digest
+file found was from 10-02 (already filed). No new comms → no new actions/decisions.
+
+**Done backfill (tasks-first reconcile):** ClickUp `Original Project` mirror for **A13** (prospect-research
+workflow update + follow-up call) was changed to `complete` on **2026-10-03** (`clickup:124f7bm4gmp`).
+A13 is a GTM-internal build item, so the team-owned completion in ClickUp is taken as completion
+evidence and A13 is now registered **DONE** in `ACTION-ITEMS.md` (GTM-authored source
+`communications/internal/slack-huddle/2026-09-25-cloverdx-huddle-notes-prospect-research-workflow.md`).
+No other register row changed and no ClickUp-ahead-of-repo orphans were found on the
+`Original Project` list.
+
+Health: **on-track**. Direction intact: 8 Oct whiteboard (01–04 PM Waterloo) prep (C29), HubSpot-vs-Clay
+(C12), MCP connection (C19), Claude-plan call (C17) all still open.
 
 ## 2026-09-29 (2nd) — SLACK SWEEP PM: three new asks surfaced from Leo↔Sid todolist thread
 09-29 `#cloverdx-internal` morning-digest + todolist thread (`communications/client/slack/...todolist-thread-claude-connect-bd-table-clay-ads.md`) surfaced three new GTM-tracked asks by Sid: **A18** connect Clay↔Claude (`124f7bm581m`), **A19** build BD contact table so Josh/Jake don't re-reach already-gone-through accounts (`124f7bm581p`), **A20** review Clay Audiences→Clay Ads workflow+pricing (`124f7bm581q`). Morning digest also marked C19/A15/A14/C10 done (Clay A14 = company-level-only tracking, consistent with the A9 decision). Board: 9 open + 1 overdue → **12 open + 1 overdue**.

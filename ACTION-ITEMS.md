@@ -10,7 +10,6 @@ Open work, sourced from the engagement logs. Items are GTM-tracked ([ASSUMPTION]
 | A7 | U0ACAB6GNN4 | Contact Clay support re: job-change signals not detected in people segment — **09-24 (2nd): RESOLVED per Clay support** — signals must be **run first** before pulling data (workbook-table signal can't detect in an Audience); new signal set up (`wb_0sx0zx8y8y4jDfuTSPS`). Blocker mostly cleared; monitor the rebuilt signal | open | `communications/internal/slack/2026-09-24-cloverdx-slack-audiences-stage-mapping-job-change-resolution-web-visitor-tracking.md` |
 | A11 | U0ACAB6GNN4 | Review account agents documentation + Clay-related items | open | `communications/internal/slack-huddle/2026-09-25-cloverdx-huddle-notes-audience-segmentation-framework.md` |
 | A12 | Leo | Finalize audiences + presentation materials for the CloverDX client call | open | `communications/internal/slack-huddle/2026-09-25-cloverdx-huddle-notes-audience-segmentation-framework.md` |
-| A13 | U0ACAB6GNN4 | Update the prospect-research workflow; join a follow-up call to discuss next steps | open | `communications/internal/slack-huddle/2026-09-25-cloverdx-huddle-notes-prospect-research-workflow.md` | `124f7bm4gmp` |
 | A14 | U0ACAB6GNN4 | Verify whether the system can push companies to different segments (gates the segment→LinkedIn Ads API trigger) | open | `communications/internal/slack-huddle/2026-09-25-cloverdx-huddle-notes-prospect-research-workflow.md` | `124f7bm4gmq` |
 | A17 | Leo | Call Ross to discuss CloverDX project progress | open | `communications/internal/slack-huddle/2026-09-25-cloverdx-huddle-notes-cloud-mcp-ownership-transfer.md` | `124f7bm4h8e` |
 | A18 | U0ACAB6GNN4 | **Connect Clay ↔ Claude** ("we need to see about connecting their Claude") — new ask 09-29 in `#cloverdx-internal` todolist thread; feeds the cloud-MCP→Clay-to-Claude ownership thread | open | `communications/client/slack/2026-09-29-cloverdx-slack-morning-digest-todolist-thread-claude-connect-bd-table-clay-ads.md` | `124f7bm581m` |
@@ -20,6 +19,7 @@ Open work, sourced from the engagement logs. Items are GTM-tracked ([ASSUMPTION]
 
 ## Done (recent)
 
+- **A13 (10-03)** — Updated the prospect-research workflow and joined the follow-up call; ClickUp mirror changed to `complete` on 2026-10-03 (`clickup:124f7bm4gmp`). Original GTM-authored source: `communications/internal/slack-huddle/2026-09-25-cloverdx-huddle-notes-prospect-research-workflow.md`.
 - **A4 (09-29)** — Replied to Kate re Clay Audiences / Account Agents / Workflows trial to year-end (Leo).
 - **A9 (09-29)** — Clay confirmed website-visitor providers track at **company** level only — answer is **no** to contact-level tracking (U0ACAB6GNN4).
 - **A8 (09-29)** — Awareness-stage framework developed + presented (Leo).
